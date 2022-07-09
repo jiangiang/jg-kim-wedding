@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital@1&family=Nunito:wght@300;400&family=Water+Brush&display=swap');;
+
+.fa-map-location-dot,
+.fa-calendar {
+  /* background: linear-gradient(135deg,#39b7f2,#833df6), */
+  /* background-image: linear-gradient(135deg, rgb(57, 183, 242), rgb(131, 61, 246)); */
+  color: rgb(131, 61, 246);
+}
+
+.detail-font {
+  font-weight: bold;
+  font-size: 20px;
+  font-style: italic;
+  font-family: 'Gentium Book Plus', serif;
+}
+
+.main-title {
+  font-family: "Water Brush", cursive;
+  font-size: 60px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+.main-title-2 {
+  font-family: "Water Brush", cursive;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.main-title-detail {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.detail-font-main {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Gentium Book Plus', serif;
+}
+
+.rsvp-title {
+    text-align: center;
+    margin-bottom: 28px;
+    font-family: 'Gentium Book Plus', serif;
+}
+
+/* .form-style {
+    div[class*="ant-form-item-with-help"] {
+        margin-bottom: 10px;
+    }
+} */
+
+.ant-form-item-with-help {
+    margin-bottom: 18px;
+    font-family: 'Gentium Book Plus', serif;
+}
+
+.ant-form-item-label > label {
+    font-size: 21px;
+}
